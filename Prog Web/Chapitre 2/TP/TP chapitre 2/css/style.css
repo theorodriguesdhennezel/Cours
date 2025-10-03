@@ -1,0 +1,52 @@
+body.arial{
+  font-family: Arial;
+}
+table.général {
+  width: 600px;
+  text-align: center;
+  align-content: center;
+  align-self: center;
+  margin-right: auto;
+  margin-left: auto ;
+}
+table.list {
+  text-align: center;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+}
+table.piedpage{
+  margin-left: auto;
+  text-align: center;
+  margin-right: auto;
+  font-weight: bold;
+  background-color: cornflowerblue;
+  width: 600px;
+  color: white;
+}
+td.bleu {
+  background-color: cornflowerBlue;
+  border: 1px solid black;
+  align-content: center;
+}
+a.menu {
+  color:white;
+  font-size: 14pt;
+  text-decoration: white;
+}
+h2 {
+text-align: center;
+}
+tr.entete {
+  color:white;
+  background-color: black;
+}
+tr.gris {
+  background-color: lightgray;
+}
+p.link {
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
